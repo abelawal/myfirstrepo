@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Employee_Id]
+      ,[Project]
+      ,[Salary]
+      ,[Variable]
+  FROM [AdventureWorks2019].[dbo].[Employee_Salary]
